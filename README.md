@@ -1,3 +1,4 @@
+![logo](https://github.com/Nayanpahari/Nayanpahari/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Nayan Pahari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
